@@ -1,0 +1,5 @@
+numpy<1.25.0
+pickle-mixin
+opencv-python
+face_recognition
+dlib 
